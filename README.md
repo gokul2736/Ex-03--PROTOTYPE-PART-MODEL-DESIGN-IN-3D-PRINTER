@@ -1,4 +1,4 @@
-# Ex. No.  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# EX 03 - To Prototype a given part model in a 3D printer.
 
 ### DATE: 09-04-2025
 ## AIM: 
